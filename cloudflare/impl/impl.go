@@ -341,7 +341,7 @@ func CreateFirewallRuleId(zoneID string) string {
 	return response.Result.ID
 }
 
-// ----------------------------------------- 添加Waf防火墙规则    防止其他国家攻击  创建一个limit 拒绝所有 国家，允许 巴西、中国 访问
+// ----------------------------------------- 添加Waf防火墙规则    防止其他国家攻击  创建一个limit 拒绝所有 国家，允许 日本、中国 访问
 func UpdateFirewallRule(zoneID string) string {
 
 	firewallRuleId := CreateFirewallRuleId(zoneID)
