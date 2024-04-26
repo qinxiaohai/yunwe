@@ -7,8 +7,8 @@ import (
         "strings"
         "time"
 
-        implCF "github.com/ned123abc/yunwe/cloudflare/impl"
-        "github.com/ned123abc/yunwe/telegram"
+        implCF "github.com/qinxiaohai/yunwe/cloudflare/impl"
+        "github.com/qinxiaohai/yunwe/telegram"
 )
 
 func main() {
