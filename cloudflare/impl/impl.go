@@ -14,7 +14,7 @@ import (
 // 生产
 const (
 	baseURL   = "https://api.cloudflare.com/client/v4"
-	authEmail = "xiaohailisa@gmail.com"                  // 替换为你的 Cloudflare 邮箱
+	authEmail = "qinxiaohai@gmail.com"                  // 替换为你的 Cloudflare 邮箱
 	authKey   = "100d77f4735565e80dd6a140a86e934c18989" // 替换为你的 Cloudflare API 密钥
 	authAccId = "e76a7a23da86f0bf73c5e322227d0b14"
 )
